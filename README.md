@@ -11,7 +11,7 @@
 - ✅ Fetches top tech news using NewsAPI
 - ✅ Sends beautiful HTML-formatted news emails daily
 - ✅ REST endpoint to trigger email manually
-- ✅ Uses `RestTemplate`, `JavaMailSender`, and `@Scheduled`
+- ✅ Uses `RestTemplate`, `JavaMailSender`
 - ✅ Built with modern Java (17+) and Spring Boot 3
 
 ---
@@ -22,7 +22,6 @@
 - Spring Boot 3
 - RestTemplate
 - JavaMailSender
-- Scheduled Tasks (`@Scheduled`)
 - Maven
 
 ---
